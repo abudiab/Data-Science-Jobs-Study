@@ -2,7 +2,9 @@
 
 In this project, we’ll explore the data job market, focusing on data analyst roles. This project was created out of a desire to navigate and understand the job market more effectively. It delves into the top-paying and in-demand skills to help find optimal job opportunities for data analysts.
 
-The data is sourced from [Luke Barousse's Python Course](https://lukebarousse.com/python) which contains detailed information on job titles, salaries, locations, and essential skills.
+I decided to focus my study on Spain.
+
+The data is sourced from [Hugging Face Datasets](https://huggingface.co/datasets/lukebarousse/data_jobs) which contains detailed information on job titles, salaries, locations, and essential skills.
 
 # The Questions
 
