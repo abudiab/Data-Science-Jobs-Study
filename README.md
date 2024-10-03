@@ -250,7 +250,11 @@ _A scatter plot visualizing the most optimal skills (high paying & high demand) 
 
 - The scatter plot shows that most of the `libraries` skills (colored green) tend to cluster at higher salary levels compared to other categories, indicating that libraries expertise might offer greater salary benefits within the data analytics field.
 
-- Analyst tools (colored orange), show significant difference in salaries, so it's advised to pick the skills that have a higher potential salary.
+- Analyst tools (colored orange), show significant difference in salaries, so it's advised to pick skills that have a higher potential salary.
+
+- The skills (Tableau and Python) combine both a relatively high salary and are showing up on more job posts. SQL is showing up on the most but has less potential salary
+
+- In light of the above, Tableau, Python and SQL are the most optimal skills to learn to maximize your potential of landing a DA role with a relatively high salary, and acquiring more skills from the list of the highest-paying skills will elevate your earning potential.
 
 # What I Learned
 
